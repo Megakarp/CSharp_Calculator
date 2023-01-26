@@ -1,0 +1,11 @@
+D:\CIS317\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.exe.config
+D:\CIS317\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.exe
+D:\CIS317\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.pdb
+D:\CIS317\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csproj.AssemblyReference.cache
+D:\CIS317\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csproj.SuggestedBindingRedirects.cache
+D:\CIS317\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.calcInterface.resources
+D:\CIS317\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.Properties.Resources.resources
+D:\CIS317\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csproj.GenerateResource.cache
+D:\CIS317\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csproj.CoreCompileInputs.cache
+D:\CIS317\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.exe
+D:\CIS317\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.pdb
